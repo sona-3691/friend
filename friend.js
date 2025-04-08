@@ -34,8 +34,7 @@ document.getElementById('revealBtn').addEventListener('click', () => {
 
     As you step into the next chapter, remember — you’re not just a coder, you’re a creator of joy.
 
-    With your's,
-    SONA💜
+    With Sona 🤍
   `;
 
   let i = 0;
